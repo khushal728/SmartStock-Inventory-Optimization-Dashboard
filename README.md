@@ -74,7 +74,7 @@ Minimized sales loss by addressing stockout risks
 
 ## 🧠 Developed By
 
-Khushal @khushal728AI
+Khushal @khushal728 
 
 ## 💬 Let's Connect
 
