@@ -1,6 +1,6 @@
-# SmartStock Inventory Optimization Dashboard & Notebook
+# SmartStock Inventory Optimization Dashboard & Notebook.
 
-## 📌 Project Overview
+## 📌 Project Overview.
 
 This project aims to analyze and optimize inventory performance for the SmartStock Retail Chain by leveraging data analytics and visualization. The solution includes a Jupyter Notebook for data processing and analysis and a Looker Studio dashboard to present actionable insights.
 
